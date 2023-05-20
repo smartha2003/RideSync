@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-
+const connectAndQuery = require('./mongodb');
+//connectAndQuery(); HOW TO DO OPERATIONS WITH MONGODB
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Hello this is my application</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -17,4 +18,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
 });
