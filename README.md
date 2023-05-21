@@ -1,5 +1,6 @@
 
-This is the User Login and Sign Up UI for the RideSync App. There are 4 screens available: Start, Login, Register, Loading.
+Main branch contains the User Login and Sign Up UI for the RideSync App. There are 4 screens available: Start, Login, Register, Loading.
+Vinay's branch contains the map integrated with Google Maps API + Google Places API.
 
 # Support
 
@@ -9,6 +10,11 @@ This is the User Login and Sign Up UI for the RideSync App. There are 4 screens 
 </a>
 
 ## How to use?
+
+Access the UI on web:
+https://snack.expo.dev/@ylylime/ridesync
+
+OR 
 
 1. Download or clone this repo.
 
