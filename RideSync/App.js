@@ -1,10 +1,23 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+// import {login, connectAndQuery} from './Mongo';
+// import {HomeComponent} from "./Homepage"
 
+// login('bob', 'abc', 'r');
+// connectAndQuery('bob', 'abc');
+
+
+
+
+
+//connectAndQuery(); HOW TO DO OPERATIONS WITH MONGODB
 export default function App() {
+  // connectAndQuery('Bob', 'abc', 'd');
+  // login('Bob', 'abc');
   return (
+
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Hello this is my application</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -17,4 +30,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
 });
