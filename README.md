@@ -2,6 +2,12 @@
 Main branch contains the User Login and Sign Up UI for the RideSync App. There are 4 screens available: Start, Login, Register, Loading.
 Vinay's branch contains the map integrated with Google Cloud APIs (Google Maps API + Google Places API).
 
+Here's our demo of the log in part:
+https://drive.google.com/file/d/1JTzeesMdfBFKNturv_6hYMWZkrMaFn_U/view?usp=sharing
+
+Here's our demo of the google maps api working:
+https://drive.google.com/file/d/1zOdQ1U4zR0aPn9zs1Atiw-qf5kzDIhRn/view?usp=sharing
+
 # Support
 
 <a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
