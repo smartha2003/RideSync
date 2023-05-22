@@ -75,11 +75,12 @@ At present, our primary focus lies in the implementation of RideSync within the 
 <a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
   React Native Templates & Starter Kits and Apps for easier start.
 </a>
-Figma
-google-cloud
-google-maps
-google-places-autocomplete
-mongodb
-react-native
+
+- Figma
+- google-cloud
+- google-maps
+- google-places-autocomplete
+- mongodb
+- react-native
 
 
